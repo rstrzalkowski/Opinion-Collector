@@ -1,4 +1,11 @@
 # Opinion Collector
+![image](https://user-images.githubusercontent.com/101710065/233845101-195b4e56-fbdb-44b8-9fbf-f33e225f0137.png)
+
+![image](https://user-images.githubusercontent.com/101710065/233845136-33385c19-3664-4d8c-b06b-e77f2906d489.png)
+
+![image](https://user-images.githubusercontent.com/101710065/233845574-f3dc454f-9784-4e05-88a6-e43eb8c1980f.png)
+
+
 ## :clipboard:Opis
 - Aplikacja realizowana na laboratoriach z przedmiotu Inżynieria Oprogramowania.
 - Aplikacja ma na celu zbieranie opinii o produktach z różnych kategorii.
